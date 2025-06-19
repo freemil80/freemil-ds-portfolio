@@ -28,7 +28,7 @@ thinking, and the translation of complex data into practical outcomes that suppo
 ## 🧰 Technical Toolbox
 
 - **Languages:** Python, SQL  
-- **Libraries:** pandas, NumPy, matplotlib, seaborn, math  
+- **Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math  
 - **Visualization:** Power BI, Excel, Tableau  
 - **Scientific Tools:** ChemDraw, VOSviewer, PRISMA  
 - **Web & UI:** HTML, CSS, Tailwind CSS  
@@ -60,24 +60,28 @@ Collaborated on research to convert pineapple leaf waste into eco-friendly fiber
 
 ## 🧑🏽‍🏫 Experience
 
-### **Data Analyst Learner** — *Generation Ghana* (Apr 2025 – Present)
+### **Data Analyst Learner** — *Generation Ghana* 
+(Apr 2025 – Present)
 - Applied Python, SQL, and Power BI to business case studies.
 - Built and deployed dashboards for analysis and presentation.
 - Collaborated in cross-functional teams for remote data projects.
 - Developed pipelines for cleaning, analysis, and visualization.
 
-### **Research Assistant** — *Kumasi Technical University* (Oct 2023 – Dec 2024)
+### **Research Assistant** — *Kumasi Technical University* 
+(Oct 2023 – Dec 2024)
 - Conducted research on sustainable fiber production from pineapple leaves.
 - Maintained lab equipment and supported experiment planning.
 - Assisted students in chemical data interpretation and research execution.
 - Contributed to faculty-led research through statistical and qualitative analysis.
 
-### **Teaching Assistant** — *Kumasi Technical University* (Nov 2023 – Dec 2024)
+### **Teaching Assistant** — *Kumasi Technical University* 
+(Nov 2023 – Dec 2024)
 - Supervised thesis projects and facilitated academic writing support.
 - Supported lab sessions and chemical software training.
 - Managed records and class engagement.
 
-### **Academic Intern (Science Educator)** — *Christ Apostolic School Complex* (Sep 2022 – Dec 2022)
+### **Academic Intern** — *Christ Apostolic School Complex* 
+(Sep 2022 – Dec 2022)
 - Instructed science classes with tailored lesson plans.
 - Encouraged student inquiry through active discussions and practical projects.
 
