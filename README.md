@@ -1,4 +1,4 @@
-# 🧪 Theophilus Ofori Agyekum
+# Theophilus Ofori Agyekum
 Scientific Data Analyst | Research Assistant | Educator
 
 Welcome to my data science portfolio. I specialize in applying data analytics to scientific 
