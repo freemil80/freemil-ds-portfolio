@@ -110,19 +110,16 @@ Department of Chemical Engineering, Kumasi Technical University.
 - 💻 [GitHub](https://github.com/freemil80)
 
 ---
+---
+
 ## 📧 Newsletter Signup
+
+Stay updated with my latest work and insights! Subscribe for updates on research, data analysis projects, and career developments.
+
+➡️ [**Click here to join the Freemil Newsletter**](https://freemil80.github.io/newsletter-website/)
+
+> *Your privacy is important to me. I will never share your email address with third parties.*
 
 ---
 
-<aside>
-Stay updated with my latest work and insights! Subscribe to my newsletter for updates on research, data analysis projects, and career developments.
-
-</aside>
-
-<aside>
-📝 To subscribe, please fill out this form: [Newsletter Signup Form](https://freemil80.github.io/newsletter-website/)
-
-</aside>
-
-Your privacy is important to me. I will never share your email address with third parties.
 > *“I use data to bridge science and innovation—transforming research into real-world impact.”*
