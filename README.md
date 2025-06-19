@@ -1,7 +1,10 @@
 # freemil-ds-portfolio
 # 🧪 Theophilus Ofori Agyekum — Scientific Data Analyst | Research Assistant | Educator
 
-Welcome to my data science portfolio. I specialize in applying data analytics to scientific research, with a strong foundation in Chemistry and hands-on experience in Python, SQL, and Power BI. My work bridges the gap between experimental science and data-driven insights—supporting innovation in sustainability, energy, and healthcare.
+Welcome to my data science portfolio. I specialize in applying data analytics to scientific 
+research, with a strong foundation in Chemistry and hands-on experience in Python, SQL, and Power BI. 
+My work bridgesthe gap between experimental science and data-driven insights—supporting innovation in 
+sustainability, energy, and healthcare.
 
 ![Scientific Data Cartoon](https://cdn-icons-png.flaticon.com/512/189/189664.png)
 
@@ -9,9 +12,14 @@ Welcome to my data science portfolio. I specialize in applying data analytics to
 
 ## 📌 About Me
 
-Hello, I’m **Theophilus Agyekum**, a Chemistry graduate with a strong interest in scientific research and data analysis. My academic background, combined with technical training from the **Generation Ghana Data Analyst program**, equips me with the skills to support data-driven innovation. I am particularly passionate about applying data analytics in **organometallic research** to drive advancements in energy, medicine, and sustainable chemistry.
+Hello, I am **Theophilus Agyekum**, a Chemistry graduate with a strong interest in scientific research and data analysis. 
+My academic background, combined with technical training from the **Generation Ghana Data Analyst program**, equips me with 
+the skills to support data-driven innovation. I am particularly passionate about applying data analytics in **organometallic research** 
+to drive advancements in energy, medicine, and sustainable chemistry.
 
-By integrating programming skills in Python and SQL with visualization tools like Power BI, I focus on uncovering insights from scientific datasets, improving experimental efficiency, and enabling evidence-based discovery. I value scientific accuracy, critical thinking, and the translation of complex data into practical outcomes that support **real-world solutions**.
+By integrating programming skills in Python and SQL with visualization tools like Power BI, I focus on uncovering insights from
+scientific datasets, improving experimental efficiency, and enabling evidence-based discovery. I value scientific accuracy, critical 
+thinking, and the translation of complex data into practical outcomes that support **real-world solutions**.
 
 ---
 
@@ -75,7 +83,8 @@ Collaborated on research to convert pineapple leaf waste into eco-friendly fiber
 
 ## 📝 Publications
 
-- **Agyekum, T. O.** (2024). *Sustainable Fiber Extraction from Pineapple Leaf Waste: A Green Chemistry Approach*. Department of Chemical Engineering, Kumasi Technical University.
+- **Agyekum, T. O.** (2024). *Sustainable Fiber Extraction from Pineapple Leaf Waste: A Green Chemistry Approach*.
+Department of Chemical Engineering, Kumasi Technical University.
 
 ---
 
