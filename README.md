@@ -109,9 +109,8 @@ Department of Chemical Engineering, Kumasi Technical University.
 - 💼 [LinkedIn](http://www.linkedin.com/in/theophilus-ofori-agyekum-1a16a0193) 
 - 💻 [GitHub](https://github.com/freemil80)
 
----
 
-> *I use data to bridge science and innovation—transforming research into real-world impact.*
+*I use data to bridge science and innovation—transforming research into real-world impact.*
 
 ---
 ---
@@ -120,7 +119,7 @@ Department of Chemical Engineering, Kumasi Technical University.
 
 Stay updated with my latest work and insights! Subscribe for updates on research, data analysis projects, and career developments.
 
-➡️ [*Click here to join the Freemil Newsletter*](https://freemil80.github.io/newsletter-website/)
+➡️ # [*Click here to join the Freemil Newsletter*](https://freemil80.github.io/newsletter-website/)
 
 > *Your privacy is important to me. I will never share your email address with third parties.*
 
