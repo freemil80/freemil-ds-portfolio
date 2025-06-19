@@ -6,7 +6,7 @@ research, with a strong foundation in Chemistry and hands-on experience in Pytho
 My work bridgesthe gap between experimental science and data-driven insights—supporting innovation in 
 sustainability, energy, and healthcare.
 
-![Scientific Data Cartoon](https://cdn-icons-png.flaticon.com/512/189/189664.png)
+![Scientific Data Science Image](assetsimg/Cop_20250619_164238.png)
 
 ---
 
@@ -20,6 +20,8 @@ to drive advancements in energy, medicine, and sustainable chemistry.
 By integrating programming skills in Python and SQL with visualization tools like Power BI, I focus on uncovering insights from
 scientific datasets, improving experimental efficiency, and enabling evidence-based discovery. I value scientific accuracy, critical 
 thinking, and the translation of complex data into practical outcomes that support **real-world solutions**.
+
+![Chemistry & Data Science](assetsimg/product_page.jpeg)
 
 ---
 
@@ -39,7 +41,7 @@ thinking, and the translation of complex data into practical outcomes that suppo
 ### 📊 COVID-19 Data Dashboard
 A Power BI dashboard analyzing COVID-19 trends, regional case distribution, and healthcare capacity.
 
-![Dashboard Preview](https://cdn-icons-png.flaticon.com/512/11329/11329893.png)
+![Covid Dashboard Preview](assetsimg/covid_125647.png)
 
 ### 🤖 Web Automation with Python
 Automated form submissions using Selenium to streamline repetitive research data entry tasks.
@@ -49,7 +51,7 @@ Automated form submissions using Selenium to streamline repetitive research data
 ### 🧬 PRISMA-Compliant Systematic Review Pipeline
 Developed a reproducible review framework using PRISMA guidelines and VOSviewer for bibliometric mapping.
 
-![Systematic Review Icon](https://cdn-icons-png.flaticon.com/512/1563/1563869.png)
+![Systematic Review Icon](assetsimg/CpVos_20250619_170912.png)
 
 ### ♻️ Green Fiber from Pineapple Waste
 Collaborated on research to convert pineapple leaf waste into eco-friendly fibers using green chemistry principles.
