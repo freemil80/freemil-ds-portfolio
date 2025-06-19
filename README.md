@@ -112,7 +112,6 @@ Department of Chemical Engineering, Kumasi Technical University.
 ---
 ---
 
-
 ## 📧 Newsletter Signup
 
 Stay updated with my latest work and insights! Subscribe for updates on research, data analysis projects, and career developments.
