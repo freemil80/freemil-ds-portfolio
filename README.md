@@ -1,5 +1,5 @@
 # Theophilus Ofori Agyekum
-Science Data Analyst | Chemical & Organometallic Chemistry Researcher
+*Science Data Analyst | Chemical & Organometallic Chemistry Researcher*
 
 Welcome to my data science portfolio. I specialize in applying data analytics to scientific 
 research, with a strong foundation in Chemistry and hands-on experience in Python, SQL, and Power BI. 
