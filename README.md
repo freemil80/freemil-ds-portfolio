@@ -110,16 +110,18 @@ Department of Chemical Engineering, Kumasi Technical University.
 - 💻 [GitHub](https://github.com/freemil80)
 
 ---
+
+> *I use data to bridge science and innovation—transforming research into real-world impact.*
+
+---
 ---
 
 ## 📧 Newsletter Signup
 
 Stay updated with my latest work and insights! Subscribe for updates on research, data analysis projects, and career developments.
 
-➡️ <a href="https://freemil80.github.io/newsletter-website/" style="color:#0366d6; text-decoration:underline;"><strong>Click here to join the Freemil Newsletter</strong></a>
+➡️ [*Click here to join the Freemil Newsletter*](https://freemil80.github.io/newsletter-website/)
 
 > *Your privacy is important to me. I will never share your email address with third parties.*
 
----
 
-> *“I use data to bridge science and innovation—transforming research into real-world impact.”*
